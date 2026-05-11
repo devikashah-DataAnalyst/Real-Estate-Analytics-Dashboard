@@ -2,6 +2,9 @@
 
 An interactive Power BI dashboard that analyzes real estate market performance across U.S. cities — tracking listing prices, agent productivity, property distribution, and month-over-month market trends.
 
+[Dashboard Preview]<img width="724" height="401" alt="image" src="https://github.com/user-attachments/assets/b24eaf89-938e-43c2-82b4-1b7c67a22e50" />
+
+
 ---
 
 ## 📌 Project Overview
@@ -105,8 +108,8 @@ RETURN
     & " "
     & FORMAT(_VarPct, "0%")
     & " vs last month"
+```
 
----
 
 ## 🚀 How to Use
 
@@ -151,12 +154,12 @@ RETURN
 
 ## 🙋 About Me
 
-**DEVIKA SHAH**
+**[DEVIKA SHAH]**
 Data Analyst | Power BI Developer
 📍 Maharashtra, India
 
 - 🔗 LinkedIn: linkedin.com/in/devikashah-data-analyst
-- 📧 Email: devikashah2000@gmail.com
+- 📧 Email: 28DPK182GMAIL.COM
 
 
 ---
