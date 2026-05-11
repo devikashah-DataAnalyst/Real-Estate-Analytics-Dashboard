@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard that analyzes real estate market performance across U.S. cities — tracking listing prices, agent productivity, property distribution, and month-over-month market trends.
 
-![Dashboard Preview](images/dashboard-preview.png)
-
 ---
 
 ## 📌 Project Overview
