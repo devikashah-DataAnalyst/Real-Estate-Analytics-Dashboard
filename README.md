@@ -69,7 +69,6 @@ Drillable property-level data with PropertyID, City, State, Type, prices, agent 
 
 The model uses a **star schema** with a dedicated Date dimension table for time intelligence calculations.
 
-![Data Model](images/data-model.png)
 
 **Tables:**
 - `real_estate` (fact table) — property listings, agent info, pricing, dates
@@ -106,9 +105,6 @@ RETURN
     & " "
     & FORMAT(_VarPct, "0%")
     & " vs last month"
-```
-
-Full DAX reference: [`docs/dax-measures.md`](docs/dax-measures.md)
 
 ---
 
