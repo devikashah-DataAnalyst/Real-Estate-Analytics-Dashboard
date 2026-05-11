@@ -126,7 +126,6 @@ Full DAX reference: [`docs/dax-measures.md`](docs/dax-measures.md)
 ## 📸 Dashboard Sections
 
 ### Overview KPIs
-![KPI Cards](images/kpi-cards.png)
 
 ### Property & Agent Analysis
 *Donut charts for distribution + agent performance cards*
